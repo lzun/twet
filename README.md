@@ -2,7 +2,7 @@
 
 Introducción:
 
-El archivo consta de varios tweets, los cuales estan relacionados con las distintas
+Cada archivo consta de varios tweets, los cuales estan relacionados con las distintas
 empresas que cotizan en la Bolsa de Valores de México. Todas las etiquetas dispo-
 nibles se encuentran en el siguiente enlace:
 
@@ -32,6 +32,8 @@ Instrucciones generales:
 
 * No es necesario guardar el archivo, el enlace en Google Docs se guarda de manera automá-
   tica.
+
+* Repetir para cada archivo.
 
 De antemano, muchas gracias por participar en éste ejercicio. Cualquier aclaración, mandar
 un correo a: lzun.morales@gmail.com
