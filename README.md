@@ -21,7 +21,13 @@ Por otro lado, las etiqueta pueden también interpretarse como un indicador de c
 mensaje del tweet afecta la visión del que lo lee y la empresa en cuestión, que puede
 ser positivo o negativo.
 
-La tarea consta de registrar manualmente una lista de 1200 tweets, con el fin de poder
+Por ejemplo:
+
+#Amediasesion el $IPC retrocede 0.45%. Avanzan $LALA $AC $ELEKTR Bajan $OHLMEX $VOLAR $WALMEX ¿RSI sobre compra o s? https://t.co/CtY94rqGUc
+
+En el tweet anterior, existe la confusión de como interpretar el tweet, por lo que es necesario leer en relación a que etiqueta se hace mención para poder clasficarlo. Si el tweet se relaciona con la etiqueta $LALA, entonces es positivo (por la pabra 'avanzan') pero si se habla de $OHLMEX es negativo (por la palabra 'bajan').
+
+La tarea consta de registrar manualmente una lista de 1422 tweets, con el fin de poder
 realizar un diccionario de términos que faciliten su clasifiación automática.
 
 Instrucciones generales:
