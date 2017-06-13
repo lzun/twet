@@ -3,8 +3,7 @@
 Introducción:
 
 Cada archivo consta de varios tweets, los cuales estan relacionados con las distintas
-empresas que cotizan en la Bolsa de Valores de México. Todas las etiquetas dispo-
-nibles se encuentran en el siguiente enlace:
+empresas que cotizan en la Bolsa de Valores de México. Todas las etiquetas disponibles se encuentran en el siguiente enlace:
 
 http://www.bmv.com.mx/es/emisoras/informacion-de-emisoras
 
@@ -30,10 +29,11 @@ Instrucciones generales:
 * Para cada tweet, leer y designar una clase apropiada, denotadas por 1, 0 o -1. El valor
   que representa cada clase se puede encontrar en los párrafos anteriores.
 
-* No es necesario guardar el archivo, el enlace en Google Docs se guarda de manera automá-
-  tica.
+* No es necesario guardar el archivo, el enlace en Google Docs se guarda de manera automática.
 
 * Repetir para cada archivo.
+
+* En caso de no tener los elementos suficientes para poder dicernir entre positivo o negativo, marcarlo como neutro.
 
 De antemano, muchas gracias por participar en éste ejercicio. Cualquier aclaración, mandar
 un correo a: lzun.morales@gmail.com
